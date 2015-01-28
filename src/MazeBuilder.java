@@ -1,13 +1,3 @@
-// Cyndi Ai & Xueming Xu
-// #1236053 & #1135954
-// CSE 373 Assignment #4
-// Oct 29, 2013
-
-//This is a class that builds the maze in methods of using the disjoint set
-//The maze is under the constraints discussed in class that is there is only
-//one solution, all cells are reachable, and only walls allowing cells to be
-//reachable are removed.
-
 import java.util.*;
 import java.io.*;
 

@@ -1,8 +1,3 @@
-// Cyndi Ai & Xueming Xu
-// #1236053 & #1135954
-// CSE 373 Assignment #4
-// Oct 29, 2013
-//
 // this is a class implements the interface Disjoinsets.java to create a correct
 // union find ADT.
 

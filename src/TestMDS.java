@@ -1,10 +1,5 @@
-// Cyndi Ai, Xueming Xu
-// #1236053, #1135954
-// CSE 373, Assignment 4
-// Oct 29, 2013
-//
-// a class tests the accuracy of all methods in MyDisjSets
 
+// a class tests the accuracy of all methods in MyDisjSets
 public class TestMDS {
 	private static MyDisjSets myDS;
 	
